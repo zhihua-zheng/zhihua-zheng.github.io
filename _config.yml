@@ -1,1 +1,21 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: Zhihua Zheng
+email: zhihua@uw.edu
+description: > # this means to ignore newlines until "baseurl:"
+  I'm a graduate student in the School of Oceanography at University of
+  Washinton, Seattle.
+  I study Physical Oceanography, especially interested in ocean dynamics,
+  the interaction between small scale (mesoscale) and large scale
+  physical processes in the ocean and how they affect the Earth's climate.
+# baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "https://zhihua-zheng.github.io/zhihua.github.io"
+# the base hostname & protocol for your site
+twitter_username: JAlexBranham
+# github_username:  zhihua-zheng
+permalink: /blog/:year/:month/:title.html
+gems:
+  - jekyll-sitemap
+
+# Build settings
+markdown: kramdown
+theme: minima
