@@ -1,2 +1,3 @@
-# ignore diretories generated each time I commit
+# ignore fiels generated each time I commit
 _site/
+Gemfile.lock

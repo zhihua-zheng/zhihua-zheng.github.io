@@ -1,7 +1,7 @@
 Personal Website
 
-This is created from a [starter kit for making an academic webpage using githubpages](https://github.com/jabranham/github-pages-academic-starter-kit).
-There is also a blog about the set up [available here](https://jabranham.com/blog/2016/01/making-academic-website/)
+This is created from a [starter kit for making an academic webpage using GitHub Pages](https://github.com/jabranham/github-pages-academic-starter-kit).
+There is also a blog about the set up [available here](https://jabranham.com/blog/2016/01/making-academic-website/).
 
 
 
