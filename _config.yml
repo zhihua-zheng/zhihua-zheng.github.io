@@ -1,17 +1,5 @@
-# Site settings
-title: Zhihua Zheng
-email: zhihua@uw.edu
-description: > # this means to ignore newlines until "baseurl:"
-
-# baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "https://zhihua-zheng.github.io/zhihua.github.io"
-# the base hostname & protocol for your site
-twitter_username: ZhihuaDanZheng
-github_username: zhihua-zheng
-permalink: /blog/:year/:month/:title.html
-gems:
-  - jekyll-sitemap
-
-# Build settings
-markdown: kramdown
-theme: minima
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
