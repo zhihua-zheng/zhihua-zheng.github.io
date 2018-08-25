@@ -1,5 +1,35 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-cayman
+title: Zhihua Zheng
+description: Ocean Dynamics in Multiscales
+
+url: https://zhihua-zheng.github.io/
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Research
+   url: /research
+ - title: Publication
+   url: /pub
+ - title: Blog
+   url: /blog
+ - title: Teaching
+   url: /teaching
+
+
+social:
+   github: zhihua-zheng
+   twitter: ZhihuaDanZheng
+   facebook: profile.php?id=100008536809032
+   email: zhihua@uw.edu
+
+google_analytics: "UA-92518616-1"

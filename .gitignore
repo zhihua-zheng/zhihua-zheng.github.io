@@ -1,3 +1,6 @@
 # ignore fiels generated each time I commit
 _site/
 Gemfile.lock
+.sass-cache
+.ruby-version
+node_modules
