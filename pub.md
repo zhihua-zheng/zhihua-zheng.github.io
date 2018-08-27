@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Zhihua-publication
+title: Publication
 ---
 
 No publication yet...

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Zhihua-teaching
+title: Teaching
 ---
 
 Under construction...

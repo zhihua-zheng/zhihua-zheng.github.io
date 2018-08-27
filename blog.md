@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Zhihua-bolg
+title: Blog
 ---
 
 Under construction...

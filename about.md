@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Zhihua-about
+title: About
+background-image: url("/assets/img/touring.jpg")
 ---
 
 <div class="post">
-	<img src="{{ '/assets/img/Europa.jpg' | prepend: site.baseurl }}" alt="">
 	<p class="intro">Zhihua Zheng is currently a graduate student at <a href="http://ocean.washington.edu/">School of
   Oceanography</a>, University of Washington Seattle.</p>
 

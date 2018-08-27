@@ -1,6 +1,6 @@
 Zhihua's Personal Website
 
-This is created from a Jekyll theme template [Long Haul] (https://github.com/brianmaierjr/long-haul).
+This is created from a Jekyll theme template [Long Haul](https://github.com/brianmaierjr/long-haul).
 
 
 ## License
