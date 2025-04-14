@@ -28,4 +28,4 @@ Li, Q., Reichl, B. G., Fox‐Kemper, B., Adcroft, A. J., Belcher, S. E., Danabas
 
 Thesis
 ---------------------
-**Zheng, Z.** (2023). Impacts of Surface Waves on Turbulence in Ocean Surface Boundary Layers: Observations and Scaling. Ph.D. Thesis, University of Washingotn. [doi:hdl.handle.net/1773/50884](https://hdl.handle.net/1773/50884)
+**Zheng, Z.** (2023). Impacts of Surface Waves on Turbulence in Ocean Surface Boundary Layers: Observations and Scaling. Ph.D. Thesis, University of Washington. [doi:hdl.handle.net/1773/50884](https://hdl.handle.net/1773/50884)
