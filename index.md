@@ -7,7 +7,7 @@ header:
   image: /assets/images/mt_baker_WA.jpg
 ---
 
-Hello! I'm a physical oceanographer. I'm broadly intrested in the fluid dynamics of the ocean and how physical ocean processes affect the biogeochemical cycles and climate of the Earth.
+Hello! I'm a physical oceanographer. I'm broadly interested in the fluid dynamics of the ocean and how physical ocean processes affect the biogeochemical cycles and climate of the Earth.
 
 I currently work with [Dr. Jacob Wenegrat](https://wenegrat.github.io/) as a postdoctoral reasearcher at the University of Maryland College Park. My present research projects use turbulence-resolving simulations to investigate multi-scale interactions among submesoscale processes, Langmuir circulation, and boundary layer turbulence. This work will provide physical understanding to inform new parameterizations of the vertical exchange between surface mixed layer and ocean interior in large-scale ocean circulation and climate models.
 
