@@ -107,9 +107,12 @@ body {
 	}
 
   p,
-  li,
   dl {
     font-size: 1em;
+  }
+
+  li {
+    font-size: 0.9em; /* make lists smaller */
   }
 
   /* paragraph indents */
