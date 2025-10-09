@@ -1,0 +1,12 @@
+/*.text-orange {
+  color: $orange;
+}*/
+
+.page__content h1:hover .header-link,
+.page__content h2:hover .header-link,
+.page__content h3:hover .header-link,
+.page__content h4:hover .header-link,
+.page__content h5:hover .header-link,
+.page__content h6:hover .header-link {
+  opacity: 0 !important;
+}

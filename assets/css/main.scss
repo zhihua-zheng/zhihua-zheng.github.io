@@ -7,8 +7,9 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+@import "custom/custom"; // custom style
 
-html {
+/*html {
   font-size: 12px; // change to whatever
 
   @include breakpoint($medium) {
@@ -22,4 +23,4 @@ html {
   @include breakpoint($x-large) {
     font-size: 18px; // change to whatever
   }
-}
+}*/
