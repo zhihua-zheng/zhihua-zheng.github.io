@@ -2,6 +2,30 @@
   color: $orange;
 }*/
 
+/* Typography */
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.page__content {
+  font-family: "Lato", sans-serif;
+}
+
+strong,
+b {
+  font-weight: 700;
+}
+
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4,
+.page__content h5,
+.page__content h6 {
+  font-weight: 700;
+}
+
+
 .page__content h1:hover .header-link,
 .page__content h2:hover .header-link,
 .page__content h3:hover .header-link,
